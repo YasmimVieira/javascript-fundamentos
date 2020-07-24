@@ -1,0 +1,11 @@
+v e v -> v
+v e f -> f
+f e ? -> f
+
+só vai ser verdadeiro quando todos elementos forem verdadeiros, se tiver um falso, o resultado será falso
+
+v ou ? -> v
+f ou v -> v
+f ou f -> f 
+
+só vai ser falso quando todos elementos forem falso, se tiver um verdadeiro, o resultado será verdadeiro

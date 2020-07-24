@@ -11,4 +11,3 @@ function teste() {
 }
 
 teste()
-console.log(local)
